@@ -7,5 +7,3 @@ class BaseModule(nn.Module):
         super(BaseModule, self).__init__()
         self._is_init=False
         self.init_cfg=copy.deepcopy(init_cfg)
-        w1qwr
-        sdg
